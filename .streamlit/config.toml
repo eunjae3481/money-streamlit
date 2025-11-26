@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#FF6BBA"          # 버튼/하이라이트 색상
+backgroundColor="#FFF0F6"       # 전체 배경
+secondaryBackgroundColor="#FFE8EC" # 카드/박스 배경
+textColor="#5A2E4D"             # 글자 색상
+font="sans serif"               # 글꼴 (serif, monospace, sans serif)
